@@ -82,5 +82,10 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 CLIENT_URL=http://localhost:5173
 NODE_ENV=development
 ```
+
+![Cart Screenshot](https://github.com/naggarx/Ecommerce/blob/main/frontend/public/Cart.png)
+
+
+
 ![Admin Screenshot](https://github.com/naggarx/Ecommerce/blob/main/frontend/public/Admin.png)
 
