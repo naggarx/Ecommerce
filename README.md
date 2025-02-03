@@ -55,7 +55,7 @@ This is a full-stack e-commerce application built using **Node.js, Express.js, M
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone
+git clone https://github.com/naggarx/Ecommerce.git
 ```
 ### **2️⃣ Install Dependencies**
 ```sh
